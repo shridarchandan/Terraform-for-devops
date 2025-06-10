@@ -123,7 +123,7 @@ Ensure you have the following tools installed:
 1. **Clone the repository**
 
 ```shellscript
-git clone https://github.com/shridarchandan54/terraform-devops.git
+git clone https://github.com/shridarchandan/terraform-devops.git
 cd terraform-devops
 ```
 
