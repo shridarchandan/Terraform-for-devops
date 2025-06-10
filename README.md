@@ -18,9 +18,6 @@ A comprehensive Terraform project for deploying and managing AWS infrastructure 
 - [🔒 Security](#-security)
 - [🔧 Troubleshooting](#-troubleshooting)
 - [📚 Best Practices](#-best-practices)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
-- [📞 Support](#-support)
 
 ## 🏗️ Architecture
 
